@@ -1,4 +1,3 @@
-
 import React, { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useForm } from 'react-hook-form';
@@ -125,7 +124,7 @@ const BusinessForm = () => {
                 <Label htmlFor="name">Full Name</Label>
                 <Input
                   id="name"
-                  placeholder="John Smith"
+                  placeholder="Enter your full name here"
                   className="w-full"
                   {...register('name')}
                 />
@@ -257,3 +256,4 @@ const BusinessForm = () => {
 };
 
 export default BusinessForm;
+
