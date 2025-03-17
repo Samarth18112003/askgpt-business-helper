@@ -139,7 +139,7 @@ const BusinessForm = () => {
                 <Input
                   id="email"
                   type="email"
-                  placeholder="john@example.com"
+                  placeholder="Enter your email here"
                   className="w-full"
                   {...register('email')}
                 />
@@ -153,7 +153,7 @@ const BusinessForm = () => {
                 <Label htmlFor="phone">Phone Number (Optional)</Label>
                 <Input
                   id="phone"
-                  placeholder="+1 (555) 123-4567"
+                  placeholder="Enter your phone number here"
                   className="w-full"
                   {...register('phone')}
                 />
