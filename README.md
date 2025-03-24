@@ -1,5 +1,8 @@
 # Welcome to your Business AI Helper
 
+Visualization of the project:
+ https://askgpt-business-helper.lovable.app
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
@@ -59,5 +62,4 @@ Simply open [Lovable](https://lovable.dev/projects/09dea103-3cae-46d7-b18d-56492
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
 
 
-Visualization of the project:
- https://askgpt-business-helper.lovable.app
+
